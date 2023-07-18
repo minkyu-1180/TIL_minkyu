@@ -367,3 +367,4 @@ list : 객체들의 '참조'들을 모아놓은 collection
     - 따라서, 정답은, 'b'는 'akleo'라는 str에 들어있지 않아서 False
   - 반대로 쓸 경우, print('a' in 'aklea') -> True
 단축평가 과정은 논리연산이 나올 때 반드시 생각해야 할듯
+
