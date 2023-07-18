@@ -13,7 +13,8 @@ GUI(Graphic User Interface) : 그래픽을 통해 사용자와 컴퓨터가 상�
   - CLI의 핵심 : 내가 어디 있는지(경로)를 알아야 한다!
 
 2. CLI의 문법 활용
-![CLI 문법 활용 예시](Untitled.png)
+
+![Alt text](Untitled.png)
 
 - CLI에서 dot의 역할
   - . : 현재 디렉토리
